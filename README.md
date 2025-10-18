@@ -50,7 +50,7 @@ while True:
 ### CLIENT:
 <img width="767" height="217" alt="image" src="https://github.com/user-attachments/assets/b4b951d2-d2cf-4108-9044-498356d7f2b1" />
 
-###SERVER:
+### SERVER:
 <img width="836" height="122" alt="image" src="https://github.com/user-attachments/assets/0e819e95-1232-4a2a-90e2-49c3d1daa769" />
 
 ## RESULT
